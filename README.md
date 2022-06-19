@@ -1,6 +1,6 @@
-# Front-end technical Test
+# Software Engineer technical Test (Front-end Side Test)
 
-> Personal project for frontend test.
+> Personal project for Software Engineer test.
 
 ## Stack used
 
