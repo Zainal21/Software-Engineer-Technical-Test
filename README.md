@@ -38,4 +38,4 @@ yarn dev
 
 ## Credits
 
-Built with. Created by [Muhamad Zainal Arifin](https://muhamadzain-dev.vercel.app/)
+Created by [Muhamad Zainal Arifin](https://muhamadzain-dev.vercel.app/)
