@@ -17,7 +17,7 @@ A Node.js LTS setup with [yarn](https://yarnpkg.com/) is recommended.
 # install dependencies
 yarn
 
-# change environtment variable
+# change environment variable local configuration
 cp .env.example to .env.local
 
 
